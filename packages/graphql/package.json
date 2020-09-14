@@ -7,7 +7,7 @@
     "@babel/cli": "^7.7.7",
     "@babel/core": "^7.7.7",
     "apollo-datasource-rest": "^0.6.11",
-    "apollo-server": "^2.9.15",
+    "apollo-server": "^2.14.2",
     "babel-core": "^7.0.0-bridge.0",
     "babel-preset-env": "^1.7.0",
     "camelot-wheel": "^0.2.3",
